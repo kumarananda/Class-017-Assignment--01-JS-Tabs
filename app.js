@@ -16,7 +16,7 @@ tabManu.forEach(item => {
             item.classList.remove('active')
         })
         get_pan.classList.add('active')
-        
+        console.log(get_pan);
     })
 })
 
